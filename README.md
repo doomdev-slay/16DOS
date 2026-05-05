@@ -1,4 +1,4 @@
-# 16DOS
+
 
 16DOS is an operating system with simple shell.
 
